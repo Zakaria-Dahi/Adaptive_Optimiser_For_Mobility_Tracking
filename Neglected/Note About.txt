@@ -1,0 +1,1 @@
+- I decided to not include this adaptation strategy in this conference paper because I found that it gives promising results. So, I took it to be the basis for our Math-oracle paper.
