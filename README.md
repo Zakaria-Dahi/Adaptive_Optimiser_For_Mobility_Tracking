@@ -1,6 +1,6 @@
 # Adaptive_Optimiser_For_Mobility_Tracking
 
-**Programmer:shipit:**: Zakaria Abdelmoiz DAHI, University of Malaga, Spain. 
+**Programmer:shipit:**: Zakaria Abdelmoiz DAHI. 
 
 **About:** This repositiory implements the binary variants of the algorithms devised and studied in [1] that solves the users' mobility tracking in cellular networks.
 
